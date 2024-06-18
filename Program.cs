@@ -1,4 +1,5 @@
 
+using CPApp.Extentions;
 
 namespace CPApp
 {
@@ -8,6 +9,8 @@ namespace CPApp
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Add services to the container.
+            builder.Services.ConfigureService();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
