@@ -8,10 +8,8 @@ namespace CPApp.service
     {
         protected string DatabaseId { get; }
         protected string CollectionId { get; set; }
-        private DocumentClient _client;
         private readonly string _endpointUrl;
         private readonly string _authKey;
-        private readonly Random _random = new Random();
         private const string _partitionKey = "/id";
         private readonly ILogger<ICosmosClientConnection> _logger;
 

@@ -1,4 +1,3 @@
-C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Documents.ServiceInterop.dll
 C:\projects\CPApp\bin\Debug\net7.0\Cosmos.CRTCompat.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
 C:\projects\CPApp\bin\Debug\net7.0\msvcp140.dll
@@ -17,7 +16,6 @@ C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Client.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Core.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Direct.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
-C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Azure.DocumentDB.Core.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.Bcl.HashCode.dll
 C:\projects\CPApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
@@ -37,11 +35,6 @@ C:\projects\CPApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Azure.Cosmo
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
-C:\projects\CPApp\bin\Debug\net7.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
-C:\projects\CPApp\bin\Debug\net7.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
-C:\projects\CPApp\bin\Debug\net7.0\runtimes\win7-x64\native\msvcp140.dll
-C:\projects\CPApp\bin\Debug\net7.0\runtimes\win7-x64\native\vcruntime140.dll
-C:\projects\CPApp\bin\Debug\net7.0\runtimes\win7-x64\native\vcruntime140_1.dll
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\projects\CPApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
