@@ -14,7 +14,7 @@ namespace CPApp.Domains
         public Guid EmployerId { get; set; }
         public QuestionType Type { get; set; }
         public string Question { get; set; }
-        public HashSet<string> Options { get; set; }
-        public bool enableOthersOption { get; set; }
+        public HashSet<string>? Options { get; set; }
+        public bool? enableOthersOption { get; set; }
     }
 }
